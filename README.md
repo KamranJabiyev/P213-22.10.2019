@@ -21,11 +21,28 @@ Mes: 1000 manat, 3 ayliq.
 
 Ekrana yazilmalidir:
 
-1-ci ay 300 manat
+1-ci ay 333 manat
 
-2-ci ay 300 manat
+2-ci ay 333 manat
 
-3-ci ay 400 manat
+3-ci ay 334 manat
+
+
+Mes: 800 manat, 6 ayliq.
+
+Ekrana yazilmalidir:
+
+1-ci ay 133 manat
+
+2-ci ay 133 manat
+
+3-ci ay 133 manat
+
+4-ci ay 133 manat
+
+5-ci ay 133 manat
+
+6-ci ay 135 manat
 
 
 2.Ededlerden ibaret array verilib, bu ededlerin en boyuyunu tapmali.
